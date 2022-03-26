@@ -1,3 +1,6 @@
+#Personal development configs
+local_development
+
 # Logs
 logs
 *.log

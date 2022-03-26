@@ -1,0 +1,26 @@
+{
+  "name": "derek_ross_personal_site",
+  "version": "0.0.0",
+  "description": "Personal project to display resume, portfolio, and content",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon --config local_development/nodemon-config.json server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/derek-ross-portfolio/personal-web-app"
+  },
+  "author": "Derek Ross",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derek-ross-portfolio/personal-web-app/issues"
+  },
+  "homepage": "https://github.com/derek-ross-portfolio/personal-web-app/blob/main/README.md",
+  "dependencies": {
+    "express": "^4.17.1",
+    "webdriverio": "^7.4.2"
+  },
+  "devDependencies": {
+  }
+}
