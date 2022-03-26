@@ -1,2 +1,2 @@
 # personal-web-app
-Personal web application for portfolio, knoweldge, and demos.
+Personal web application for portfolio, knowledge, and demos.
